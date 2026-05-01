@@ -1,0 +1,32 @@
+{
+  "system": "Design System Context v2.4",
+  "brand": {
+    "primary": "#4F46E5",
+    "secondary": "#10B981",
+    "background_light": "#FAFAFA",
+    "background_dark": "#18181B"
+  },
+  "typography": {
+    "font_sans": ["Inter", "sans-serif"],
+    "font_mono": ["JetBrains Mono", "monospace"],
+    "base_size": "16px",
+    "scale": "Major Third"
+  },
+  "components": {
+    "button": {
+      "border_radius": "6px",
+      "padding_x": "16px",
+      "padding_y": "8px",
+      "transitions": "all 0.2s ease-in-out"
+    },
+    "card": {
+      "border_radius": "12px",
+      "box_shadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+      "padding": "24px"
+    }
+  },
+  "guidelines": {
+    "spacing": "Use an 8pt grid system. Margin and padding values must be multiples of 4 or 8.",
+    "accessibility": "All text must pass WCAG AA contrast. All interactive elements need a focus ring."
+  }
+}
