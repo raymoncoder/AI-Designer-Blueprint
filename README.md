@@ -2,7 +2,7 @@
 
 # 🚀 AI-Driven Product Design Blueprint
 
-<img src="./assets/banner.png" alt="AI-Driven Product Design Blueprint Banner" width="100%" />
+<img src="./assets/banner_main.png" alt="AI-Driven Product Design Blueprint Banner" width="100%" />
 
 <br/>
 
