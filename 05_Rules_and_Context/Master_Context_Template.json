@@ -1,0 +1,52 @@
+{
+  "project_meta": {
+    "name": "SoulReader Core",
+    "version": "2026.5.0",
+    "last_updated": "2026-05-03",
+    "status": "Production"
+  },
+  "brand_identity": {
+    "tone": "Empathetic, Minimalist, Precision-driven",
+    "voice_rules": [
+      "Avoid passive voice",
+      "Maximum 12 words per sentence in UI",
+      "Use 'you' and 'your', never 'the user'"
+    ],
+    "visual_theme": "Modern Dark / Glassmorphism"
+  },
+  "design_system": {
+    "tokens_path": "./tokens/core.json",
+    "component_library": "Shadcn UI v5 + Custom Framer Motion",
+    "constraints": {
+      "grid": "12-column, 24px gutter",
+      "border_radius": "16px",
+      "shadows": "soft-elevated"
+    }
+  },
+  "technical_stack": {
+    "framework": "Next.js 16 (App Router)",
+    "styling": "Tailwind CSS v5",
+    "animations": "Framer Motion 14",
+    "agentic_tools": ["Antigravity", "v0", "Claude-Code"]
+  },
+  "user_context": {
+    "primary_persona": {
+      "id": "UX_RESEARCHER_ALEX",
+      "tech_literacy": "Expert",
+      "accessibility_needs": ["High-contrast mode support", "Screen reader optimized"]
+    },
+    "business_logic": {
+      "monetization": "SaaS / Per Seat",
+      "critical_flow": "Data Ingestion -> Analysis -> Export"
+    }
+  },
+  "ai_orchestration": {
+    "preferred_model": "Gemini 3.5 Pro",
+    "skill_stack": [
+      "UX_WRITER_V2",
+      "ACCESSIBILITY_AUDITOR",
+      "LOGIC_CHECKER"
+    ],
+    "output_formatting": "Always return production-ready code or valid JSON context updates."
+  }
+}

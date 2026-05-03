@@ -1,23 +1,38 @@
-# ✅ Part 6: The Ultimate Daily Checklist (April 2026 Edition)
+# ✅ Part 6: The AI-Augmented Daily Routine (May 2026)
 
-Use this checklist to ensure you are maximizing AI leverage in your day-to-day workflow.
+Use this routine to transition from "Pixel Pusher" to "Design Orchestrator."
 
-**Phase 1: Discovery & Strategy**
-- [ ] Has my AI agent digested all recent user support tickets related to this feature?
-- [ ] Have I generated a *Context File* for this sprint to feed to my AI coding assistant?
-- [ ] Did I run a *Synthetic User* simulation to validate my initial hypothesis?
+---
 
-**Phase 2: Ideation & Architecture**
-- [ ] Did I ask AI to generate an exhaustive list of edge cases and error states?
-- [ ] Are the user flows mapped and verified by a logic-checking AI agent to prevent dead ends?
-- [ ] Have I generated the initial UI layouts using generative tools (Figma AI/v0) to avoid "blank canvas" syndrome?
+## 🌅 Phase 1: Ingestion & Intelligence (09:00 - 10:00)
+*Goal: Align your mental model with the live product state.*
 
-**Phase 3: Crafting & Prototyping**
-- [ ] Is my prototype using live API data injected via AI instead of fake text?
-- [ ] Did I use an agentic tool like Antigravity to convert complex interactions into actual code components?
-- [ ] Has the UX Writer Skill audited and refined all microcopy in the interface?
+- [ ] **Sentiment Sync:** Review the "Sentiment Radar" summary from Gemini 3.5. What are the top 3 user pain points from the last 24 hours?
+- [ ] **Context Stack Ingestion:** Upload any new business requirements or technical constraints to your `project-context.json`.
+- [ ] **Agent Sync:** Ensure your "Research Agent" and "Design System Agent" are using the latest version of your documentation.
 
-**Phase 4: Handoff & Quality Assurance**
-- [ ] Has the AI Accessibility Auditor scanned the final components for WCAG 3.0 compliance?
-- [ ] Did the AI generate the final markdown documentation and PR (Pull Request) description for the engineering team?
-- [ ] Have I updated the central Design System context with any new decisions made today?
+## ⚙️ Phase 2: Orchestration & Iteration (10:00 - 13:00)
+*Goal: Directing AI to build high-fidelity solutions.*
+
+- [ ] **The "Logic Guardrail":** Before designing, ask an agent (Claude 4.5) to list all logical edge cases for the current feature.
+- [ ] **Generative Layouts:** Use Figma AI (Agentic Mode) to generate 5 variations of the core layout based on the `project-context.json`.
+- [ ] **Real-Data Injection:** Populate your mocks with live production data via a secure API-Agent to test layout durability.
+
+## 🛠️ Phase 3: Crafting & "Zero-Handoff" (14:00 - 16:30)
+*Goal: Converting designs into production-ready code.*
+
+- [ ] **Antigravity Conversion:** Use **Antigravity** to convert your refined Figma components into React/Vue code.
+- [ ] **Micro-Animation Scripting:** Prompt Framer/Spline to generate physics-based transitions for spatial elements.
+- [ ] **UX Writer Audit:** Run the "Tone-of-Voice Skill" on all new UI strings to ensure brand consistency.
+
+## 🌙 Phase 4: Review, Refine & Handoff (16:30 - 18:00)
+*Goal: Ensuring quality and communicating decisions.*
+
+- [ ] **Accessibility Deep Scan:** Run the "WCAG 3.0 Auditor" agent. Did we handle focus states for spatial gaze?
+- [ ] **Synthetic Bias Check:** Ask a diverse set of "Synthetic Personas" to critique the design for cultural or technical bias.
+- [ ] **Auto-Documentation:** Let your agent generate the `HANDOFF.md` and update the `design-system.json` with today's tokens.
+
+---
+
+> [!IMPORTANT]
+> **2026 Workflow Tip:** If you spend more than 15 minutes manually naming layers or moving pixels, you are failing the "Orchestrator" mindset. Automate the mundane, obsess over the strategy.

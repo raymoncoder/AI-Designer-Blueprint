@@ -1,4 +1,4 @@
-# ⚡ Part 4: Interactive Prototyping & Code
+# ⚡ Part 4: Interactive Prototyping & Code (May 2026)
 
 In 2026, the boundary between "Design" and "Front-End Development" has vanished. Delivering a static `.png` or a basic click-through Figma prototype is considered incomplete work.
 
